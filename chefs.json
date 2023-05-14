@@ -1,0 +1,387 @@
+[
+    {
+        "id": 1,
+        "chef_picture": "https://i.ibb.co/9tBKyHD/pexels-parker-knight-2461838.jpg",
+        "chef_name": "Mei Chen",
+        "years_of_experience": 10,
+        "number_of_recipes": 80,
+        "likes": 1200,
+        "bio": "Mei Chen is an accomplished Chinese chef with over 10 years of experience. She has a deep understanding of traditional Chinese cooking techniques and loves to experiment with new ingredients and flavors to create unique and delicious dishes.",
+        "recipes": [
+            {
+                "recipe_name": "Beef and Broccoli Stir Fry",
+                "ingredients": [
+                    "beef sirloin",
+                    "broccoli",
+                    "garlic",
+                    "soy sauce",
+                    "cornstarch"
+                ],
+                "cooking_method": [
+                    "Cut beef into thin strips and marinate with soy sauce and cornstarch for 30 minutes.",
+                    "Stir-fry beef in a wok until cooked.",
+                    "Add garlic and broccoli and stir-fry for another minute.",
+                    "Serve hot."
+                ],
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Mapo Tofu",
+                "ingredients": [
+                    "tofu",
+                    "ground pork",
+                    "doubanjiang",
+                    "Sichuan peppercorns",
+                    "green onions"
+                ],
+                "cooking_method": [
+                    "Cut tofu into small cubes.",
+                    "Brown ground pork in a wok and add doubanjiang and Sichuan peppercorns.",
+                    "Add tofu and stir gently.",
+                    " Add a little water and simmer for 5 minutes.",
+                    "Serve hot with green onions."
+                ],
+                "rating": 4.4
+            },
+            {
+                "recipe_name": "Hainanese Chicken Rice",
+                "ingredients": [
+                    "chicken thighs",
+                    "rice",
+                    "ginger",
+                    "garlic",
+                    "chicken broth"
+                ],
+                "cooking_method": [
+                    "Rinse rice and set aside. ",
+                    "Cook chicken thighs in chicken broth with ginger and garlic until fully cooked. ",
+                    "Remove chicken and set aside. ",
+                    "Cook rice in the chicken broth until done. ",
+                    "Serve chicken over the rice with chili sauce and soy sauce."
+                ],
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chef_picture": "https://i.ibb.co/1Xf3Ttx/pexels-tirachard-kumtanom-887827.jpg",
+        "chef_name": "Wei Zhang",
+        "years_of_experience": 8,
+        "number_of_recipes": 60,
+        "likes": 950,
+        "bio": "Wei Zhang is a talented chef with 8 years of experience in the Chinese culinary world. She has a passion for creating healthy and delicious dishes using fresh ingredients and traditional cooking methods. Her recipes are always full of flavor and nutrition.",
+        "recipes": [
+            {
+                "recipe_name": "Stir Fried Shrimp with Snow Peas",
+                "ingredients": [
+                    "shrimp",
+                    "snow peas",
+                    "carrots",
+                    "ginger",
+                    "garlic"
+                ],
+                "cooking_method": [
+                    "Peel and devein shrimp.",
+                    "Cut snow peas and carrots into small pieces.",
+                    "Stir-fry shrimp in a wok until cooked.",
+                    "Add ginger and garlic and stir-fry for another minute.",
+                    "Add snow peas and carrots and stir-fry for another minute.",
+                    "Serve hot."
+                ],
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Sichuan Spicy Chicken",
+                "ingredients": [
+                    "chicken breast",
+                    "dried red chilies",
+                    "Sichuan peppercorns",
+                    "green onions",
+                    "ginger"
+                ],
+                "cooking_method": [
+                    "Cut chicken breast into small pieces.",
+                    "Heat oil in a wok and add dried red chilies, Sichuan peppercorns, and ginger.",
+                    "Add chicken and stir-fry until cooked.",
+                    "Serve hot with green onions."
+                ],
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Hot and Sour Soup",
+                "ingredients": [
+                    "tofu",
+                    "bamboo shoots",
+                    "mushrooms",
+                    "eggs",
+                    "vinegar"
+                ],
+                "cooking_method": [
+                    "Cut tofu into small cubes.",
+                    "Slice bamboo shoots and mushrooms.",
+                    "Beat eggs and set aside.",
+                    "Bring chicken broth to a boil and add tofu, bamboo shoots, and mushrooms.",
+                    "Add vinegar and white pepper to taste. ",
+                    "Pour in the beaten eggs and stir. ",
+                    "Serve hot."
+                ],
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "chef_picture": "https://i.ibb.co/mhkShyJ/pexels-aleksandr-neplokhov-2291445.jpg",
+        "chef_name": "Fang Wu",
+        "years_of_experience": 7,
+        "number_of_recipes": 45,
+        "likes": 900,
+        "bio": "Fang Wu is a talented Chinese chef with 7 years of experience. She specializes in creating delicious and healthy Chinese dishes that are enjoyed by many. Her passion for cooking is evident in her dishes, which are always bursting with flavor.",
+        "recipes": [
+            {
+                "recipe_name": "Mapo Tofu",
+                "ingredients": [
+                    "soft tofu",
+                    "ground pork",
+                    "doubanjiang",
+                    "Sichuan peppercorns",
+                    "green onions"
+                ],
+                "cooking_method": [
+                    "Cut tofu into small cubes.",
+                    "Brown ground pork in a wok.",
+                    "Add doubanjiang and stir-fry for a minute.",
+                    "Add tofu and water and simmer for 10 minutes.",
+                    "Add Sichuan peppercorns and green onions and stir.",
+                    "Serve hot with rice."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Sichuan Spicy Chicken",
+                "ingredients": [
+                    "chicken breast",
+                    "dried red chilies",
+                    "Sichuan peppercorns",
+                    "green onions",
+                    "ginger"
+                ],
+                "cooking_method": [
+                    "Cut chicken breast into small pieces.",
+                    "Heat oil in a wok and add dried red chilies, Sichuan peppercorns, and ginger.",
+                    "Add chicken and stir-fry until cooked.",
+                    "Serve hot with green onions."
+                ],
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Hot and Sour Soup",
+                "ingredients": [
+                    "tofu",
+                    "bamboo shoots",
+                    "mushrooms",
+                    "eggs",
+                    "vinegar"
+                ],
+                "cooking_method": [
+                    "Cut tofu into small cubes.",
+                    "Slice bamboo shoots and mushrooms.",
+                    "Beat eggs and set aside.",
+                    "Bring chicken broth to a boil and add tofu, bamboo shoots, and mushrooms.",
+                    "Add vinegar and white pepper to taste.",
+                    "Pour in the beaten eggs and stir.",
+                    "Serve hot."
+                ],
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "chef_picture": "https://i.ibb.co/PGf92zt/pexels-cottonbro-studio-4253303.jpg",
+        "chef_name": "Antoine Dupont",
+        "years_of_experience": 12,
+        "number_of_recipes": 70,
+        "likes": 900,
+        "bio": "Antoine Dupont is a French chef with over 12 years of experience. He specializes in classic French cuisine, but also enjoys incorporating new techniques and ingredients into his dishes. He is known for his attention to detail and his ability to create beautiful, flavorful plates.",
+        "recipes": [
+            {
+                "recipe_name": "Coq au Vin",
+                "ingredients": [
+                    "chicken thighs",
+                    "red wine",
+                    "bacon",
+                    "onion",
+                    "carrot"
+                ],
+                "cooking_method": [
+                    "Brown chicken and bacon in a dutch oven.",
+                    "Remove chicken and bacon and add onions and carrots.",
+                    "Add chicken back to pot and pour in red wine.",
+                    "Simmer for 45 minutes.",
+                    "Serve hot."
+                ],
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Ratatouille",
+                "ingredients": [
+                    "zucchini",
+                    "eggplant",
+                    "tomato",
+                    "onion",
+                    "garlic"
+                ],
+                "cooking_method": [
+                    "Cut vegetables into small pieces.",
+                    "Saute onions and garlic in a skillet.",
+                    "Add remaining vegetables and cook until tender.",
+                    "Serve hot."
+                ],
+                "rating": 4.2
+            },
+            {
+                "recipe_name": "Tarte Tatin",
+                "ingredients": [
+                    "apples",
+                    "sugar",
+                    "butter",
+                    "flour"
+                ],
+                "cooking_method": [
+                    "Melt sugar and butter in a skillet.",
+                    "Arrange sliced apples on top of sugar mixture.",
+                    "Cover with a pastry crust.",
+                    "Bake in oven until crust is golden brown.",
+                    "Serve warm."
+                ],
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "chef_picture": "https://i.ibb.co/XsVYkGw/pexels-cottonbro-studio-4253703.jpg",
+        "chef_name": "Juan Rodriguez",
+        "years_of_experience": 8,
+        "number_of_recipes": 60,
+        "likes": 900,
+        "bio": "Juan Rodriguez is a talented Mexican chef with 8 years of experience. He has a passion for creating traditional Mexican dishes that showcase the flavors and ingredients of his culture. He is also known for his creative twists on classic recipes.",
+        "recipes": [
+            {
+                "recipe_name": "Tacos al Pastor",
+                "ingredients": [
+                    "pork shoulder",
+                    "pineapple",
+                    "onion",
+                    "cilantro",
+                    "corn tortillas"
+                ],
+                "cooking_method": [
+                    "Marinate pork shoulder in a mixture of spices and pineapple juice overnight.",
+                    "Roast pork on a spit until fully cooked.",
+                    "Slice pork thinly and serve in warm corn tortillas with chopped onion, cilantro, and fresh pineapple."
+                ],
+                "rating": 4.9
+            },
+            {
+                "recipe_name": "Chiles Rellenos",
+                "ingredients": [
+                    "poblano peppers",
+                    "ground beef",
+                    "tomatoes",
+                    "onion",
+                    "garlic"
+                ],
+                "cooking_method": [
+                    "Roast poblano peppers until skin is charred.",
+                    "Remove skin and stuff peppers with cooked ground beef and tomato sauce.",
+                    "Bake in the oven until cheese is melted and bubbly.",
+                    "Serve hot."
+                ],
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Guacamole",
+                "ingredients": [
+                    "avocado",
+                    "red onion",
+                    "jalapeno",
+                    "lime",
+                    "cilantro"
+                ],
+                "cooking_method": [
+                    "Mash avocado in a bowl.",
+                    "Add chopped red onion, diced jalapeno, and chopped cilantro.",
+                    "Squeeze lime juice over mixture and stir to combine.",
+                    "Serve with tortilla chips."
+                ],
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chef_picture": "https://i.ibb.co/QcRCbwf/pexels-rene-asmussen-2544830.jpg",
+        "chef_name": "Jie Li",
+        "years_of_experience": 9,
+        "number_of_recipes": 55,
+        "likes": 1100,
+        "bio": "Juan Rodriguez is a talented Mexican chef with 8 years of experience. He has a passion for creating traditional Mexican dishes that showcase the flavors and ingredients of his culture. He is also known for his creative twists on classic recipes.",
+        "recipes": [
+            {
+                "recipe_name": "Guacamole",
+                "ingredients": [
+                    "avocado",
+                    "red onion",
+                    "jalapeno",
+                    "lime",
+                    "cilantro"
+                ],
+                "cooking_method": [
+                    "Mash avocado in a bowl.",
+                    "Add chopped red onion, diced jalapeno, and chopped cilantro.",
+                    "Squeeze lime juice over mixture and stir to combine.",
+                    "Serve with tortilla chips."
+                ],
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Mapo Tofu",
+                "ingredients": [
+                    "tofu",
+                    "ground pork",
+                    "doubanjiang",
+                    "Sichuan peppercorns",
+                    "green onions"
+                ],
+                "cooking_method": [
+                    "Cut tofu into small cubes.",
+                    "Brown ground pork in a wok and add doubanjiang and Sichuan peppercorns.",
+                    "Add tofu and stir gently.",
+                    " Add a little water and simmer for 5 minutes.",
+                    "Serve hot with green onions."
+                ],
+                "rating": 4.4
+            },
+            {
+                "recipe_name": "Beef and Broccoli Stir Fry",
+                "ingredients": [
+                    "beef sirloin",
+                    "broccoli",
+                    "garlic",
+                    "soy sauce",
+                    "cornstarch"
+                ],
+                "cooking_method": [
+                    "Cut beef into thin strips and marinate with soy sauce and cornstarch for 30 minutes.",
+                    "Stir-fry beef in a wok until cooked.",
+                    "Add garlic and broccoli and stir-fry for another minute.",
+                    "Serve hot."
+                ],
+                "rating": 4.6
+            }
+        ]
+    }
+]
